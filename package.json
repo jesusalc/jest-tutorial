@@ -1,0 +1,22 @@
+{
+  "name": "jest-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jesusalc/jest-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jesusalc/jest-tutorial/issues"
+  },
+  "homepage": "https://github.com/jesusalc/jest-tutorial#readme",
+  "dependencies": {
+    "jest-cli": "^18.1.0"
+  }
+}
